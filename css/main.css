@@ -1,7 +1,22 @@
-        body {
-            font-family: Helvetica, sans-serif;
-            font-size: 18px;
-        }
-        img {
-            max-width: 600px;
-        }
+body {
+  font: 100% Helvetica, sans-serif;
+  color: blue; }
+
+p {
+  color: red; }
+
+nav ul {
+  margin: 20px; }
+nav li {
+  display: inline-block; }
+nav a {
+  padding: 12px; }
+
+.anna, .elsa {
+  padding: 10px;
+  color: #333; }
+
+.elsa {
+  color: green; }
+
+/*# sourceMappingURL=main.css.map */
